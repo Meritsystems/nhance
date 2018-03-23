@@ -6,7 +6,6 @@
 
 from __future__ import unicode_literals
 import frappe
-import erpnext
 from frappe.utils import cstr, flt, getdate, new_line_sep, nowdate, add_days
 from frappe import msgprint, _
 from frappe.model.mapper import get_mapped_doc
